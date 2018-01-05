@@ -1,3 +1,11 @@
+var peeps = [{
+  name: "Fillip",
+  age: 50
+}, {
+  name: "Sandra",
+  age:20
+}];
+
 var people = [
   {
     name: "BJ",
@@ -8,3 +16,4 @@ var people = [
     age: 12
   }
 ];
+
